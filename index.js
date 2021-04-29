@@ -3,7 +3,7 @@ const { db, update } = require('./db')
 
 /* CODE YOUR API HERE */
 
-////////////////////// Vacuum///////////////////
+////////////////////// Vacuum ///////////////////
 
 /* Slå på vakuumet (eller vilken enhet du än väljer) med webbadressen: 
 localhost: 3001 / vakuum (enhetsnamn du väljer) / on.
